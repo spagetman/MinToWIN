@@ -1,0 +1,249 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"century"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/James/Desktop/Photography-Archives/fall2020.html",
+		"/C/Users/James/AppData/Roaming/.minecraft/assets/skins/0a/0abc8984cc66f29cf3b7a901da4964127aaa3d33",
+		"/C/Users/James/Desktop/Photography-Archives/style.css",
+		"/C/Users/James/Desktop/Photography-Archives/newYears2020-2021.html",
+		"/C/Users/James/Desktop/Photography-Archives/index.html",
+		"/C/Users/James/Desktop/AmEx Website Project/index.html",
+		"/C/Users/James/Desktop/Photography-Archives/thanksgiving2020.html",
+		"/C/Users/James/Desktop/Photography-Archives/christmas2020.html",
+		"/C/Users/James/Desktop/Photography-Archives/dec2020.html",
+		"/C/Users/James/Desktop/Photography-Archives/halloween2020.html",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/index.html",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/shopping/backToTop-buyer-8d016c56-2e4b-44a8-998b-dd9acb7d6fe7-ddeb14367c4f58d06229.css",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/assets/css/main.css",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/Shop.html",
+		"/C/Program Files (x86)/ENE/io/ene.sys",
+		"/D/DCIM/100D3500/DSC_0011.xmp",
+		"/D/DCIM/100D3500/Dad At Piano.xmp",
+		"/C/Users/James/Downloads/CUEAudioVisualizer_v1.3.0/CUESDK_2013.dll",
+		"/C/Program Files (x86)/Prey/Binaries/Danielle/x64/Release/steam_api64.dll",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/assets/js/main.js",
+		"/E/CODEX/codex64.dll",
+		"/E/setup-1.bin",
+		"/C/Program Files (x86)/Origin Games/Mass Effect Andromeda/Core/Activation64.dll",
+		"/C/Users/James/Desktop/School Stuff/8th Grade/[R.G. Mechanics] Metro Exodus/data1.bin",
+		"/C/Users/James/Desktop/School Stuff/8th Grade/Metro Exodus by xatab/data1.bin",
+		"/C/Users/James/Desktop/Coding practice - Github/James Coding Project/style.css",
+		"/C/Users/James/Desktop/Tor Browser/Browser/tbb_version.json",
+		"/C/Users/James/Downloads/Moonrise Kingdom (2012) [1080p]/Moonrise.Kingdom.2012.1080p.BluRay.x264.YIFY.srt",
+		"/C/Users/James/Downloads/2001.A.Space.Odyssey.1968.1080p.BluRay.x264.anoXmous/2001.A.Space.Odyssey.1968.1080p.BluRay.x264.anoXmous_swe.srt",
+		"/C/Users/James/Downloads/2001.A.Space.Odyssey.1968.1080p.BluRay.x264.anoXmous/2001.A.Space.Odyssey.1968.1080p.BluRay.x264.anoXmous_dan.srt",
+		"/C/Users/James/Downloads/2001.A.Space.Odyssey.1968.1080p.BluRay.x264.anoXmous/2001.A.Space.Odyssey.1968.1080p.BluRay.x264.anoXmous_fre.srt",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/Userdata.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/StreamingHistory1.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/StreamingHistory0.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/SearchQueries.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/Playlist1.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/Payments.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/Identity.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/Follow.json",
+		"/C/Users/James/AppData/Local/Temp/Temp1_my_spotify_data.zip/MyData/YourLibrary.json",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/assets/js/jquery.min.js",
+		"/C/Users/James/Desktop/constant/index.html",
+		"/C/Users/James/Desktop/constant/assets/css/main.css",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/assets/js/util.js",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/generic.html",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/index_files/main.css",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/assets/webfonts/fa-brands-400.svg",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/images/storefront.jpg",
+		"/C/Users/James/Desktop/Ann Madonia Antiques/generic.html",
+		"/C/Users/James/Desktop/Ann Madonia Antiques/elements.html",
+		"/C/Users/James/Desktop/Ann Madonia Antiques/index.html",
+		"/C/Users/James/Downloads/html5up-editorial.zip",
+		"/C/Users/James/Desktop/argyle-sweater/James Coding Project/Resume.html",
+		"/C/Users/James/Desktop/argyle-sweater/James Coding Project/style.css",
+		"/C/Users/James/Desktop/argyle-sweater/James Coding Project/abtFamily.html",
+		"/C/Users/James/Desktop/argyle-sweater/James Coding Project/aboutMe.html",
+		"/C/Users/James/Desktop/argyle-sweater/James Coding Project/index.html",
+		"/C/Users/James/Desktop/argyle-sweater/README.md",
+		"/C/Users/James/Desktop/argyle-sweater/James Coding Project/codingProjs.html",
+		"/C/Users/James/Desktop/PC Building Simulator/UnityPlayer.dll",
+		"/C/Users/James/Desktop/Coin flip program/cfscript.css",
+		"/C/Users/James/Desktop/style.css",
+		"/C/Users/James/Desktop/aboutMe.html",
+		"/C/Users/James/Desktop/Resume.html",
+		"/C/Users/James/Desktop/Homepage.html",
+		"/C/Users/James/Desktop/Coin flip program/cfindex.html",
+		"/C/Users/James/Desktop/Coin flip program/cfscript.js",
+		"/C/Users/James/Desktop/Coin flip program/index.html",
+		"/C/Users/James/Desktop/Coin flip program.zip",
+		"/C/Users/James/Desktop/CSSExperiment",
+		"/C/Users/James/Desktop/Experiment CSS",
+		"/C/Users/James/Desktop/Experiment",
+		"/C/Users/James/Desktop/Universe Sandbox.url",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/assets/css/ie9.css",
+		"/C/Users/James/Desktop/science.github.io/index.html",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/html5up-fractal/index.html",
+		"/C/Users/James/Desktop/jamesdaboss.github.io/html5up-identity/index.html",
+		"/C/Users/James/Desktop/headshot.jpg",
+		"/C/Users/James/Desktop/office.jpg",
+		"/C/Users/James/Desktop/html5up-fractal.zip",
+		"/C/Users/James/Desktop/html5up-identity.zip"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
