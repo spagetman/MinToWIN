@@ -112,10 +112,68 @@ input, select, textarea {
 			transition: none !important;
 		}
 
-/* EXTRA UL*/
+/* EXTRA CSS*/
 
 	#mainLogo99{
 		width: 20px;
+	}
+
+	/*#will{
+		width: 45% !important;
+		flex-grow: 1 !important;
+	}
+
+	#james{
+		width: 50% !important;
+		flex-grow: 1 !important;
+	}*/
+
+	.container{
+		display: flex;
+		width: 100%;
+	}
+
+	.text {
+	  /* Text in headshots*/
+	  height: 250px;
+	  opacity: 0;
+	  text-align: center;
+	  font-size: 230%;
+	  text-decoration: none;
+
+	}
+
+	#will{
+		background: url(../images/will.jpg);
+		background-repeat: no-repeat;
+  		background-size: cover;
+  		overflow: hidden;
+  		text-decoration: none;
+	}
+
+	#james{
+		background: url(../images/james.jpg);
+		background-repeat: no-repeat;
+  		background-size: cover;
+  		overflow: hidden;
+  		text-decoration: none;
+	}
+
+	.headshot:hover .text {
+	  /* What happens to the text when you hover over the headshot*/
+	  opacity: 1;
+	  transition: .5s;
+	  text-decoration: none;
+
+	}
+
+	.headshot:hover{
+	  /* What happens to the headshot when you hover over it*/
+		color: white;
+		object-fit: cover;
+	    opacity: 0.7;
+	    transition: .5s ease;
+	    text-decoration: none;
 	}
 
 /* Typography */
