@@ -130,7 +130,14 @@ input, select, textarea {
 	  text-align: center;
 	  font-size: 230%;
 	  text-decoration: none;
+	}
 
+	#willText{
+		font-size: 13px;
+	}
+
+	#jamesText{
+		font-size: 13px;
 	}
 
 	#will{
@@ -140,6 +147,7 @@ input, select, textarea {
   		overflow: hidden;
   		text-decoration: none;
 		flex-grow: 1;
+		padding: 2px;
 	}
 
 	#james{
@@ -149,23 +157,31 @@ input, select, textarea {
   		overflow: hidden;
   		text-decoration: none;
 		flex-grow: 1;
+		padding-right: 3px;
 	}
 
-	.headshot:hover .text {
-	  /* What happens to the text when you hover over the headshot*/
-	  opacity: 1;
-	  transition: .5s;
-	  text-decoration: none;
+	/*.headshot{
+		font-size: 16px !important;
+	}*/
 
+	.headshot:hover .text {
+	  /* What happens to the text when you hover over it*/
+	  opacity: 0;
+	  transition: .25s;
+	  text-decoration: none;
+	  text-align: center;
+	  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 	}
 
 	.headshot:hover{
-	  /* What happens to the headshot when you hover over it*/
+	  /* What happens to the headshot image when you hover over it*/
 		color: white;
 		object-fit: cover;
-	    opacity: 0.7;
-	    transition: .5s ease;
+	    opacity: 1;
+	    transition: .25s;
 	    text-decoration: none;
+	    text-align: center;
+	    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 	}
 
 /* Typography */
