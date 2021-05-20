@@ -118,16 +118,6 @@ input, select, textarea {
 		width: 20px;
 	}
 
-	/*#will{
-		width: 45% !important;
-		flex-grow: 1 !important;
-	}
-
-	#james{
-		width: 50% !important;
-		flex-grow: 1 !important;
-	}*/
-
 	.container{
 		display: flex;
 		width: 100%;
@@ -144,19 +134,21 @@ input, select, textarea {
 	}
 
 	#will{
-		background: url(../images/will.jpg);
+		background: url(../../images/will.jpg);
 		background-repeat: no-repeat;
-  		background-size: cover;
+  		background-size: contain;
   		overflow: hidden;
   		text-decoration: none;
+		flex-grow: 1;
 	}
 
 	#james{
-		background: url(../images/james.jpg);
+		background: url(../../images/james.jpg);
 		background-repeat: no-repeat;
-  		background-size: cover;
+		background-size: contain;
   		overflow: hidden;
   		text-decoration: none;
+		flex-grow: 1;
 	}
 
 	.headshot:hover .text {
