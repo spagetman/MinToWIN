@@ -118,6 +118,10 @@ input, select, textarea {
 		width: 20px;
 	}
 
+	#ad{
+		height: 100%;
+	}
+
 	.container{
 		display: flex;
 		width: 100%;
