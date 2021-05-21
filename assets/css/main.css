@@ -119,7 +119,7 @@ input, select, textarea {
 	}
 
 	#ad{
-		height: 100%;
+		display: block !important;
 	}
 
 	.container{
