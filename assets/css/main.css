@@ -141,28 +141,36 @@ input, select, textarea {
 		position: absolute;
 	}
 
+	#textCont{
+		text-align: center !important;
+	}
+
 	#willText{
 		float: right;
-		margin: 5px;
+		margin-top: 5px;
 	}
 
 	#jamesText{
 		float: left;
-		margin: 5px;
+		margin-top: 5px;
 		text-align: center;
 	}
 
 	#will{
 		width: 100%;
 		height: 100%;
-		flex-grow: 1;
+		flex-grow: 3;
+		flex-shrink: 3;
+		float: right;
 		object-fit: contain;
 	}
 
 	#james{
 		width: 100%;
 		height: 100%;
-		flex-grow: 1;
+		flex-grow: 3;
+		flex-shrink: 3;
+		float: left;
 		object-fit: contain;
 	}
 
