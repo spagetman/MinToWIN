@@ -175,6 +175,51 @@ input, select, textarea {
 		margin: 5px;
 	}
 
+	input[type="radio"] {
+		appearance: radio !important;
+
+	}
+
+	.fadein img {
+	    position:absolute;
+	    top:0;
+	    -webkit-animation-name: fade;
+	    -webkit-animation-iteration-count: infinite;
+	    -webkit-animation-duration: 6s;
+	    animation-name: fade;
+	    animation-iteration-count: infinite;
+	    animation-duration: 6s;
+	}
+
+	@-webkit-keyframes fade {
+	    0% {opacity: 0;}
+	    20% {opacity: 1;}
+	    33% {opacity: 1;}
+	    53% {opacity: 0;}
+	    100% {opacity: 0;}
+	}
+	@keyframes fade {
+	    0% {opacity: 0;}
+	    20% {opacity: 1;}
+	    33% {opacity: 1;}
+	    53% {opacity: 0;}
+	    100% {opacity: 0;}
+	}
+
+	#f1 {
+	    background-color: lightblue;
+	}
+
+	#f2 {
+	    -webkit-animation-delay: -8s;
+	    background-color: yellow;
+	}
+
+	#f3 {
+	    -webkit-animation-delay: -4s;
+	    background-color: lightgreen;
+	}
+
 /* Typography */
 
 	html {
@@ -2245,16 +2290,16 @@ input, select, textarea {
 
 	input[type="checkbox"],
 	input[type="radio"] {
-		-moz-appearance: none;
+/*		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
-		appearance: none;
-		display: block;
-		float: left;
-		margin-right: -2rem;
-		opacity: 0;
-		width: 1rem;
-		z-index: -1;
+		appearance: none;*/
+/*		display: block;
+		float: left;*/
+/*		margin-right: -2rem;*/
+/*		opacity: 0;*/
+/*		width: 1rem;*/
+/*		z-index: -1;*/
 	}
 
 		input[type="checkbox"] + label,
