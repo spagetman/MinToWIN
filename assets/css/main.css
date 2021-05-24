@@ -207,17 +207,17 @@ input, select, textarea {
 	}
 
 	#f1 {
-	    background-color: lightblue;
+	    background-color: white;
 	}
 
 	#f2 {
 	    -webkit-animation-delay: -8s;
-	    background-color: yellow;
+	    background-color: white;
 	}
 
 	#f3 {
 	    -webkit-animation-delay: -4s;
-	    background-color: lightgreen;
+	    background-color: white;
 	}
 
 /* Typography */
